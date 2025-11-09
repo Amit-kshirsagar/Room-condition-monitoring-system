@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ADC_EXAMPLE1_GFX1", "ADC_EXAMPLE1_GFX1\ADC_EXAMPLE1_GFX1.cproj", "{C647E5A3-0369-43FB-B848-0FE5496DA341}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "XMEGA_A3BU_XPLAINED_DEMO1", "..\XMEGA_A3BU_XPLAINED_DEMO1\XMEGA_A3BU_XPLAINED_DEMO1.cproj", "{93A11BC9-8742-4897-83E4-E8EE8E4E7D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C647E5A3-0369-43FB-B848-0FE5496DA341}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C647E5A3-0369-43FB-B848-0FE5496DA341}.Debug|AVR.Build.0 = Debug|AVR
+		{C647E5A3-0369-43FB-B848-0FE5496DA341}.Release|AVR.ActiveCfg = Release|AVR
+		{C647E5A3-0369-43FB-B848-0FE5496DA341}.Release|AVR.Build.0 = Release|AVR
+		{93A11BC9-8742-4897-83E4-E8EE8E4E7D1B}.Debug|AVR.ActiveCfg = Debug|AVR
+		{93A11BC9-8742-4897-83E4-E8EE8E4E7D1B}.Debug|AVR.Build.0 = Debug|AVR
+		{93A11BC9-8742-4897-83E4-E8EE8E4E7D1B}.Release|AVR.ActiveCfg = Release|AVR
+		{93A11BC9-8742-4897-83E4-E8EE8E4E7D1B}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

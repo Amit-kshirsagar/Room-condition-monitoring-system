@@ -1,0 +1,8 @@
+Name: Amit Kshirsagar
+ID No: 2018AAPS0381G
+LAB1 final submission
+
+//The location for the solution file is ADC_EXAMPLE1_GFX1(Folder name) > ADC_EXAMPLE1_GFX1.atsln
+
+// The location for the main c file containing code is ADC_EXAMPLE1_GFX1(Folder name) > ADC_EXAMPLE1_GFX1(Folder name) > src > adc_example1_gfx.c
+
